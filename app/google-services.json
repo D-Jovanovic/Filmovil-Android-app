@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014272814732",
+    "project_id": "filmovil-damjan2021",
+    "storage_bucket": "filmovil-damjan2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014272814732:android:4c688d2fff189dba93d5a9",
+        "android_client_info": {
+          "package_name": "com.filmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014272814732-16i594aoks8sbemokv9gu08e2u6b41tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filmovil",
+            "certificate_hash": "3565ab52aad3f584a841262f351c2e6e9b77b5b4"
+          }
+        },
+        {
+          "client_id": "1014272814732-fcrhns2v7tjv4mseucpdgin5jgnmat7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-0qTLkegZ0U7pDLXU2WGfx3h7pDhVSWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014272814732-fcrhns2v7tjv4mseucpdgin5jgnmat7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
